@@ -4,21 +4,6 @@ This public repository hosts the official binaries for [Aquanode](https://aquano
 
 > 🔗 For more information, visit [aquanode.io](https://aquanode.io)
 
----
-
-## 📚 Table of Contents
-
-- [Introduction](#introduction)
-- [Download](#download)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Checksums](#checksums)
-- [Release Notes](#release-notes)
-- [Support](#support)
-- [License](#license)
-
----
-
 ## 📦 Introduction
 
 The AI cloud marketplace that automates GPUs into cloud-ready instances.
